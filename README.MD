@@ -8,4 +8,11 @@ Creación hola mundo
 
 * div
 * imagen
-* Creación de páginas
+* Creación de página
+
+```bash
+cat README.md
+ 
+```
+ 
+1. **text** text
